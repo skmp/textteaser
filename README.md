@@ -6,7 +6,7 @@ Added a post-midnight style api and sample js (this might be the worst way to do
 
 to use you need java and sbt, then
 
-1. git clone https://github.com/MojoJolo/textteaser.git
+1. git clone https://github.com/skmp/textteaser.git
 2. sbt run
 3. look into tease.js on how to use
 
