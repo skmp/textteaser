@@ -2,7 +2,7 @@ TextTeaser
 ==========
 
 # Fork by skmp 
-Added a post-midnight style api and sample js (this might be the worst day to do this, first time touching scala code)
+Added a post-midnight style api and sample js (this might be the worst way to do this, first time touching scala code)
 
 to use you need java and sbt, then
 1. git clone https://github.com/MojoJolo/textteaser.git
