@@ -4,7 +4,7 @@ TextTeaser
 # Fork by skmp 
 Added a post-midnight style api and sample js (this might be the worst way to do this, first time touching scala code)
 
-to use you need java and sbt, then
+to use you need java, sbt and mongo, then
 
 1. git clone https://github.com/skmp/textteaser.git
 2. sbt run
