@@ -22,7 +22,8 @@ libraryDependencies ++= Seq(
 	"ch.qos.logback" % "logback-classic" % "1.0.13",
 	"com.google.guava" % "guava" % "15.0",
 	"com.google.code.findbugs" % "jsr305" % "2.0.2",
-	"org.scalatest" % "scalatest_2.10" % "1.9.2" % "test"
+	"org.scalatest" % "scalatest_2.10" % "1.9.2" % "test",
+	"org.mashupbots.socko" %% "socko-webserver" % "0.3.1"
 )
 
 resolvers += "OpenNLP Repository" at "http://opennlp.sourceforge.net/maven2/"
